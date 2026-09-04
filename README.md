@@ -1,1 +1,4 @@
-# CSCI-271-Fall-2026
+int main() {
+    cout << "Hello, world!";
+    return 0;
+}
